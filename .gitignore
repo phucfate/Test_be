@@ -2,5 +2,9 @@
 QL/BUS/obj
 QL/DAL/bin
 QL/DAL/obj
+
 QL/GUI/bin
 QL/GUI/obj
+
+QL/GUI/obj
+QL/GUI/bin
