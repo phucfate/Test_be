@@ -7,5 +7,8 @@
     <Compile Update="frmQuanLiKhachHang.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="frmQuanLy.cs">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
 </Project>
